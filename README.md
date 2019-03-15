@@ -1,2 +1,3 @@
-# TestAutomationCsharpBDD
-Test Automation UI with C# and  Specflow - BDD
+# Testes Automatizados - UI Prime Control 
+
+## Tecnologias: Selenium Webdriver, NUnit e Specfow 
